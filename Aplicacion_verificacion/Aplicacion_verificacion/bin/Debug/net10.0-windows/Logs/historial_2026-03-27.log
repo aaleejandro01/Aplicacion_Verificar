@@ -1,0 +1,5 @@
+[12:41:28] [VERIFICACIÓN] Archivo: A103.00.PLPE.ssp | Algoritmo Exigido: ECDSA-256 / SHA-256 | Resultado: ALERTA (Inválida o Modificada)
+[12:42:14] [VERIFICACIÓN] Archivo: A103.00.PLPE.ssp | Algoritmo Exigido: ECDSA-384 / BLAKE3 | Resultado: ALERTA (Inválida o Modificada)
+[12:42:18] [VERIFICACIÓN] Archivo: A103.00.PLPE.ssp | Algoritmo Exigido: ECDSA-384 / BLAKE3 | Resultado: ALERTA (Inválida o Modificada)
+[12:42:24] [VERIFICACIÓN] Archivo: A103.00.PLPE.ssp | Algoritmo Exigido: ECDSA-384 / BLAKE3 | Resultado: ALERTA (Inválida o Modificada)
+[12:42:32] [VERIFICACIÓN] Archivo: A103.00.PLPE.ssp | Algoritmo Exigido: EdDSA Ed25519 / No aplica (Ed25519) | Resultado: ALERTA (Inválida o Modificada)
